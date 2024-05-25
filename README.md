@@ -3,7 +3,7 @@
 Objectives
 
 
-− To get familiar with capturing network packets using Wireshark.
+− To efficiently capture network packets using Wireshark.
 
 
 
